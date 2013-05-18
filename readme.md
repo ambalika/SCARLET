@@ -1,5 +1,5 @@
 #SCARLET
-###Speech Computing and Realistic Life Enhancement Technology
+###Speech Computing and Researching Life Enhancement Technology
 
 **SCARLET** is yet another speech interface made for Android devices, however the intention is to make it significantly different to current apps.
 
