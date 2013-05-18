@@ -10,9 +10,9 @@ In Progress:
 - Authenticating against a Google account on the device (for App Engine integration later)
 
 To Do:
-- [ ] Setting up the App Engine connection
-- [ ] Local service to sync with App Engine and respond to push notifications
-- [ ] Extend settings menu
-- [ ] Add message log
-- [ ] Integrate with system notifications
-- [ ] Too many possibilities to list
+- Setting up the App Engine connection
+- Local service to sync with App Engine and respond to push notifications
+- Extend settings menu
+- Add message log
+- Integrate with system notifications
+- Too many possibilities to list
